@@ -39,7 +39,7 @@
 ## 🛠️ Projects I've Contributed To
 
 - [Pescaito Hub](https://github.com/pescaito-team/pescaito-hub): Backend and frontend development in Python.(Repository of feature model datasets in UVL format)![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-- [MystiKart](https://github.com/PGPI-1-11/MystiKart): Backend and frontend development in Python.(Website of esoteric products)![Django]https://img.shields.io/badge/Django-green?logo=django
+- [MystiKart](https://github.com/PGPI-1-11/MystiKart): Backend and frontend development in Python.(Website of esoteric products)![Django](https://img.shields.io/badge/Django-green?logo=django)
 - [psg2-2324-g3-33](https://github.com/gii-is-psg2/psg2-2324-g3-33) Backend and frontend development in Java.(PetClinic)![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 - [Acme-SF](https://github.com/orgs/C1-010/repositories): Backend and frontend development in Java.(Project focused on design and testing) **Acme-Framework**
 
