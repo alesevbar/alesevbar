@@ -4,7 +4,6 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Computer+Engineering+Student" alt="Headline" />
     </div>  
 
-![GitHub followers](https://img.shields.io/github/followers/arjuncvinod?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/arjuncvinod?style=social)<img src="https://komarev.com/ghpvc/?username=arjuncvinod" alt="" />
 
 <br> **About Me**
 
