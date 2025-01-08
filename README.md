@@ -38,9 +38,6 @@
 
 <td width="50%" align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=alesevbar&show_icons=true&theme=midnight-purple&hide_border=false&count_private=true"/>
-
-
   </td>
 </tr>
 </table>
