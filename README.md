@@ -11,7 +11,7 @@
 
  📫 Reach out to me: **alesevbar17@gmail.com**
 
- ✍ You can find my resume [here](https://drive.google.com/file/d/1ekHjHAyfKdtdQfXo_kETWMtlcA3wSV5g/view?usp=sharing)
+ ✍ You can find my resume [here]()
 
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
