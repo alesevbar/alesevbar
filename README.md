@@ -90,9 +90,9 @@
 
 - [Pescaito Hub](https://github.com/pescaito-team/pescaito-hub): Backend and frontend development in Python.(Repository of feature model datasets in UVL format)![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
 - [MystiKart](https://github.com/PGPI-1-11/MystiKart): Backend and frontend development in Python.(Website of esoteric products)![Django](https://img.shields.io/badge/Django-green?logo=django) P.S. : **Private repository**
-- [psg2-2324-g3-33](https://github.com/gii-is-psg2/psg2-2324-g3-33) Backend and frontend development in Java. (PetClinic)  
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="30"/>  
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" />
+- [psg2-2324-g3-33](https://github.com/gii-is-psg2/psg2-2324-g3-33): Backend and frontend development in Java. (PetClinic)  
+  <span style="float:right"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="20"/>  
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" width="20"/></span>
 - [Acme-SF](https://github.com/orgs/C1-010/repositories): Backend and frontend development in Java.(Project focused on design and testing) **Acme-Framework**
 
 
